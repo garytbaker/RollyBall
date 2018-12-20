@@ -1,0 +1,114 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   24.21.13.9882
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Gary\Unity\Summer Game\testgame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Gary\Unity\Summer Game\testgame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Gary\Unity\Summer Game\testgame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.154 seconds
+Platform assembly: D:\Gary\Unity\Summer Game\testgame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Gary\Unity\Summer Game\testgame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 3.695960 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 994 -> priority: 1 
+  Thread -> id: 150c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.325835 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.648982 ms (FindLiveObjects: 0.167458 ms CreateObjectMapping: 0.054857 ms MarkObjects: 0.409985 ms  DeleteObjects: 0.014756 ms)
+
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.176381 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.424421 ms (FindLiveObjects: 0.060952 ms CreateObjectMapping: 0.051007 ms MarkObjects: 0.299308 ms  DeleteObjects: 0.011869 ms)
+
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.153283 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.424100 ms (FindLiveObjects: 0.061593 ms CreateObjectMapping: 0.054857 ms MarkObjects: 0.293854 ms  DeleteObjects: 0.012190 ms)
+
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.221935 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.426025 ms (FindLiveObjects: 0.061273 ms CreateObjectMapping: 0.051328 ms MarkObjects: 0.298987 ms  DeleteObjects: 0.012190 ms)
+
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.194025 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.479919 ms (FindLiveObjects: 0.074426 ms CreateObjectMapping: 0.057423 ms MarkObjects: 0.325934 ms  DeleteObjects: 0.020531 ms)
+
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.662336 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.485694 ms (FindLiveObjects: 0.072501 ms CreateObjectMapping: 0.051328 ms MarkObjects: 0.347749 ms  DeleteObjects: 0.012190 ms)
+
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.390676 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.464842 ms (FindLiveObjects: 0.073142 ms CreateObjectMapping: 0.053573 ms MarkObjects: 0.324651 ms  DeleteObjects: 0.012511 ms)
+
+The referenced script on this Behaviour (Game Object 'Directional Light') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.289303 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.460671 ms (FindLiveObjects: 0.072501 ms CreateObjectMapping: 0.052290 ms MarkObjects: 0.322726 ms  DeleteObjects: 0.011228 ms)
+
